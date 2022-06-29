@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1b54136-60d5-4ad9-a34e-9e8d39cdd9aa" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="29ZAgB4bU7R3dP7NB7YokUi2PEf" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1b54136-60d5-4ad9-a34e-9e8d39cdd9aa" name="Default Changelist" comment="" />
+      <created>1653310342220</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653310342220</updated>
+      <workItem from="1653310346376" duration="923000" />
+      <workItem from="1653314131155" duration="7019000" />
+      <workItem from="1653388079698" duration="3416000" />
+      <workItem from="1653464824466" duration="12243000" />
+      <workItem from="1653636734240" duration="21260000" />
+      <workItem from="1653834966952" duration="2478000" />
+      <workItem from="1653850471403" duration="2860000" />
+      <workItem from="1653910891490" duration="12404000" />
+      <workItem from="1654087452597" duration="912000" />
+      <workItem from="1654090629851" duration="1674000" />
+      <workItem from="1654515805967" duration="4930000" />
+      <workItem from="1654525146536" duration="2910000" />
+      <workItem from="1654684804576" duration="2856000" />
+      <workItem from="1654697457043" duration="265000" />
+      <workItem from="1654852905040" duration="8025000" />
+      <workItem from="1655468060096" duration="657000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/Header.js</url>
+          <line>144</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
